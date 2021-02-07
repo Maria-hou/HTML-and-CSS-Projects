@@ -3,18 +3,18 @@ These are websites that are created with HTML and CSS.
 
 ## Projects
 * [Bootstrap Cinema Website](#Bootstrap-Cinema-Website)
-* [To Do App](#to-do-app)
-* [Pizza Order App](#pizza-order-app)
+* [I Love You A Latte](#I-love-you-a-latte)
+* [Joshua Tree Resort](#Joshua-tree-resort)
 * [Portfolio](#portfolio)
 
 ## [Bootstrap Cinema Website](https://github.com/Maria-hou/HTML-and-CSS-Projects/tree/master/bootstrap4_project)
 This webiste utilizes Bootstrap, HTML and CSS to display different showings for movies at a local cinema in Portland. Additionally, it contains a form that users can enter their information in order to recieve updates from the cinema.
 
-## [To Do App](https://github.com/Maria-hou/JavaScript-Projects/tree/master/JavaScript%20Projects/todo_app)
-This simple to do app allows the user to input a task and then delete it when it is complete.
+## [I Love You A Latte](https://github.com/Maria-hou/HTML-and-CSS-Projects/tree/master/One-Page%20Website)
+This one-page website showcases some specialty lattes as well as recipes that the user can try out. Furthermore, the user can enter in their own recipe to be featured on the website!
 
-## [Pizza Order App](https://github.com/Maria-hou/JavaScript-Projects/tree/master/JavaScript%20Projects/Pizza_Project)
-This program allows the user to customize a pizza, and then outputs the price associated with their creation.
+## [Joshua Tree Resort](https://github.com/Maria-hou/HTML-and-CSS-Projects/tree/master/Project_1_HTML)
+This website simulates a website for a resort in Joshua Tree. It showcases the beautiful scenery that is included with beautiful CSS styling as well as a form that the user can use to make reservations.
 
 ## [Portfolio](https://github.com/Maria-hou/Maria-hou.github.io)
 This is my portfolio website that details what languages I have mastered as well as different projects I have worked on. You can access it [here](https://maria-hou.github.io/)
